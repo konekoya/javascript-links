@@ -26,6 +26,7 @@ Links that might be helpful for me in the future
 - [Project Guidelines](https://github.com/elsewhencode/project-guidelines)
 - [Clean code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript#table-of-contents)
 - [Why review code?](https://sophiebits.com/2018/12/25/why-review-code.html)
+- [Naming cheatsheet](https://github.com/kettanaito/naming-cheatsheet)
 
 ## UI
 - [Redesigning Laravel.io](https://medium.com/refactoring-ui/redesigning-laravel-io-c47ac495dff0)
