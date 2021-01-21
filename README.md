@@ -1,4 +1,4 @@
-# javascript-links
+# JavaScript links
 
 Links that might be helpful for me in the future
 
