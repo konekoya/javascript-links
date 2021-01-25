@@ -5,12 +5,14 @@ Links that might be helpful for me in the future
 ## JavaScript
 - [Debouncing and Throttling Explained Through Examples](https://css-tricks.com/debouncing-throttling-explained-examples/)
 - [Modern JavaScript Explained For Dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70)
+- [Avoid Export Default](https://basarat.gitbook.io/typescript/main-1/defaultisbad)
 
 ## TypeScript
 
 - [Setup TypeScript lintting for the project](https://github.com/typescript-eslint/typescript-eslint/blob/master/docs/getting-started/linting/README.md)
 - [The trouble with TypeScript enums](https://thoughtbot.com/blog/the-trouble-with-typescript-enums)
 - [TypeScript: Stop Using 'any', There's a Type For That](https://thoughtbot.com/blog/typescript-stop-using-any-there-s-a-type-for-that)
+- [TypeScript Deep Dive](https://basarat.gitbook.io/typescript/)
 
 ## CSS
 
