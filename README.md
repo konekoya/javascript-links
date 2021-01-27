@@ -37,6 +37,14 @@ Links that might be helpful for me in the future
 
 - [JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
 
+## Data structure and algorithms
+
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+
 ## Tools
 
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) a python tool for downloading videos
+
+## Others
+
+- [提問的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
