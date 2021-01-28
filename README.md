@@ -45,6 +45,10 @@ Links that might be helpful for me in the future
 
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
 
+## RESTful API
+- [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist)
+- [Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md)
+
 ## Tools
 
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) a python tool for downloading videos
