@@ -21,6 +21,7 @@ Links that might be helpful for me in the future
 ## CSS
 
 - [Ten modern layouts in one line of CSS](https://web.dev/one-line-layouts/)
+- [https://csslayout.io/](https://csslayout.io/)
 
 ## Cypress
 
