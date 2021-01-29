@@ -6,6 +6,7 @@ Links that might be helpful for me in the future
 - [Debouncing and Throttling Explained Through Examples](https://css-tricks.com/debouncing-throttling-explained-examples/)
 - [Modern JavaScript Explained For Dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70)
 - [Avoid Export Default](https://basarat.gitbook.io/typescript/main-1/defaultisbad)
+- [33-js-concepts](https://github.com/leonardomso/33-js-concepts)
 
 ## TypeScript
 
@@ -57,3 +58,4 @@ Links that might be helpful for me in the future
 ## Others
 
 - [提問的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
+- [hacker-scripts](https://github.com/NARKOZ/hacker-scripts)
