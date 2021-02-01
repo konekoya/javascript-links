@@ -7,6 +7,7 @@ Links that might be helpful for me in the future
 - [Modern JavaScript Explained For Dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70)
 - [Avoid Export Default](https://basarat.gitbook.io/typescript/main-1/defaultisbad)
 - [33-js-concepts](https://github.com/leonardomso/33-js-concepts)
+- [mostly-adequate-guide](https://github.com/MostlyAdequate/mostly-adequate-guide)
 
 ## TypeScript
 
@@ -42,6 +43,7 @@ Links that might be helpful for me in the future
 ## Interview
 
 - [JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
+- [In-JavaScript-we-trust](https://github.com/yeungon/In-JavaScript-we-trust)
 
 ## Data structure and algorithms
 
