@@ -62,3 +62,4 @@ Links that might be helpful for me in the future
 - [提問的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
 - [hacker-scripts](https://github.com/NARKOZ/hacker-scripts)
 - [What makes you a senior software engineer anyway?](https://swizec.com/blog/what-makes-you-a-senior-software-engineer-anyway?ck_subscriber_id=1161113581)
+- [Greatest Hits: The Most Popular and Most Useful Posts I've Written](https://blog.isquaredsoftware.com/2020/08/greatest-hits/)
