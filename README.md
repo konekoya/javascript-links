@@ -19,6 +19,7 @@ Links that might be helpful for me in the future
 
 #### Books
 - [TypeScript Deep Dive](https://basarat.gitbook.io/typescript/)
+- [Free programing books](https://github.com/EbookFoundation/free-programming-books)
 
 ## CSS
 
@@ -56,6 +57,7 @@ Links that might be helpful for me in the future
 ## Tools
 
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) a python tool for downloading videos
+- [transition.css](https://github.com/argyleink/transition.css) Drop-in CSS transitions
 
 ## Others
 
