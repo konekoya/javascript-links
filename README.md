@@ -16,10 +16,14 @@ Links that might be helpful for me in the future
 - [The trouble with TypeScript enums](https://thoughtbot.com/blog/the-trouble-with-typescript-enums)
 - [TypeScript: Stop Using 'any', There's a Type For That](https://thoughtbot.com/blog/typescript-stop-using-any-there-s-a-type-for-that)
 - [TypeScript: Low maintenance types](https://fettblog.eu/low-maintenance-types-typescript/?utm_source=typescript-weekly.com&utm_campaign=typescript_weekly_162&utm_medium=email)
+- [Using built-in utility types in TypeScript](https://blog.logrocket.com/using-built-in-utility-types-in-typescript/?utm_source=typescript-weekly.com&utm_campaign=typescript_weekly_164&utm_medium=email#utm_source=typescript-weekly.com&utm_campaign=typescript_weekly_164&utm_medium=email)
 
 #### Books
 - [TypeScript Deep Dive](https://basarat.gitbook.io/typescript/)
 - [Free programing books](https://github.com/EbookFoundation/free-programming-books)
+
+#### Videos
+- [Basarat Ali's youtube channel](https://www.youtube.com/c/BasaratAli/videos)
 
 ## CSS
 
