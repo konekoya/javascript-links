@@ -8,6 +8,7 @@ Links that might be helpful for me in the future
 - [Avoid Export Default](https://basarat.gitbook.io/typescript/main-1/defaultisbad)
 - [33-js-concepts](https://github.com/leonardomso/33-js-concepts)
 - [mostly-adequate-guide](https://github.com/MostlyAdequate/mostly-adequate-guide)
+- [Encapsulation](https://kyleshevlin.com/encapsulation)
 
 ## TypeScript
 
