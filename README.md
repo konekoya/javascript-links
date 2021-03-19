@@ -10,6 +10,12 @@ Links that might be helpful for me in the future
 - [mostly-adequate-guide](https://github.com/MostlyAdequate/mostly-adequate-guide)
 - [Encapsulation](https://kyleshevlin.com/encapsulation)
 
+#### React
+- [useEncapsulation or Why Your React Components Should Only Use Custom Hooks](https://kyleshevlin.com/use-encapsulation)
+
+#### Lodash FP
+- [Functional programming with Lodash](https://alexlouden.com/posts/2019-lodash-fp/)
+
 ## TypeScript
 
 #### Blog posts
