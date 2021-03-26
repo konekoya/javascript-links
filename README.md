@@ -76,3 +76,4 @@ Links that might be helpful for me in the future
 - [hacker-scripts](https://github.com/NARKOZ/hacker-scripts)
 - [What makes you a senior software engineer anyway?](https://swizec.com/blog/what-makes-you-a-senior-software-engineer-anyway?ck_subscriber_id=1161113581)
 - [Greatest Hits: The Most Popular and Most Useful Posts I've Written](https://blog.isquaredsoftware.com/2020/08/greatest-hits/)
+- [4 years of coding in San Francisco, lessons learned](https://swizec.com/blog/4-years-of-coding-in-san-francisco-lessons-learned?ck_subscriber_id=1161113581)
