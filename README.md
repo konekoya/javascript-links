@@ -9,6 +9,7 @@ Links that might be helpful for me in the future
 - [33-js-concepts](https://github.com/leonardomso/33-js-concepts)
 - [mostly-adequate-guide](https://github.com/MostlyAdequate/mostly-adequate-guide)
 - [Encapsulation](https://kyleshevlin.com/encapsulation)
+- [JavaScript Closures](https://kentcdodds.com/blog/javascript-closures?ck_subscriber_id=386728463)
 
 #### React
 - [useEncapsulation or Why Your React Components Should Only Use Custom Hooks](https://kyleshevlin.com/use-encapsulation)
