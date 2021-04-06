@@ -33,6 +33,9 @@ Links that might be helpful for me in the future
 #### Videos
 - [Basarat Ali's youtube channel](https://www.youtube.com/c/BasaratAli/videos)
 
+#### Tools
+- [TSConfig bases](https://github.com/tsconfig/bases)
+
 ## CSS
 
 - [Ten modern layouts in one line of CSS](https://web.dev/one-line-layouts/)
