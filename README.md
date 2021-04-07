@@ -35,6 +35,7 @@ Links that might be helpful for me in the future
 
 #### Tools
 - [TSConfig bases](https://github.com/tsconfig/bases)
+- [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react)
 
 ## CSS
 
