@@ -74,6 +74,7 @@ Links that might be helpful for me in the future
 
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) a python tool for downloading videos
 - [transition.css](https://github.com/argyleink/transition.css) Drop-in CSS transitions
+- [free-for.dev](https://github.com/ripienaar/free-for-dev)
 
 ## Others
 
