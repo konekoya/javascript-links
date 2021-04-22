@@ -70,6 +70,10 @@ Links that might be helpful for me in the future
 - [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist)
 - [Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md)
 
+
+## Git
+- [git-tips](https://github.com/git-tips/tips)
+
 ## Tools
 
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) a python tool for downloading videos
