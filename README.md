@@ -25,6 +25,7 @@ Links that might be helpful for me in the future
 - [TypeScript: Stop Using 'any', There's a Type For That](https://thoughtbot.com/blog/typescript-stop-using-any-there-s-a-type-for-that)
 - [TypeScript: Low maintenance types](https://fettblog.eu/low-maintenance-types-typescript/?utm_source=typescript-weekly.com&utm_campaign=typescript_weekly_162&utm_medium=email)
 - [Using built-in utility types in TypeScript](https://blog.logrocket.com/using-built-in-utility-types-in-typescript/?utm_source=typescript-weekly.com&utm_campaign=typescript_weekly_164&utm_medium=email#utm_source=typescript-weekly.com&utm_campaign=typescript_weekly_164&utm_medium=email)
+- [Starting a TypeScript Project in 2021](https://www.metachris.com/2021/04/starting-a-typescript-project-in-2021/?ck_subscriber_id=248572493)
 
 #### Books
 - [TypeScript Deep Dive](https://basarat.gitbook.io/typescript/)
