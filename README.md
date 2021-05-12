@@ -3,6 +3,7 @@
 Links that might be helpful for me in the future
 
 ## JavaScript
+
 - [Debouncing and Throttling Explained Through Examples](https://css-tricks.com/debouncing-throttling-explained-examples/)
 - [Modern JavaScript Explained For Dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70)
 - [Avoid Export Default](https://basarat.gitbook.io/typescript/main-1/defaultisbad)
@@ -12,14 +13,17 @@ Links that might be helpful for me in the future
 - [JavaScript Closures](https://kentcdodds.com/blog/javascript-closures?ck_subscriber_id=386728463)
 
 #### React
+
 - [useEncapsulation or Why Your React Components Should Only Use Custom Hooks](https://kyleshevlin.com/use-encapsulation)
 
 #### Lodash FP
+
 - [Functional programming with Lodash](https://alexlouden.com/posts/2019-lodash-fp/)
 
 ## TypeScript
 
 #### Blog posts
+
 - [Setup TypeScript lintting for the project](https://github.com/typescript-eslint/typescript-eslint/blob/master/docs/getting-started/linting/README.md)
 - [The trouble with TypeScript enums](https://thoughtbot.com/blog/the-trouble-with-typescript-enums)
 - [TypeScript: Stop Using 'any', There's a Type For That](https://thoughtbot.com/blog/typescript-stop-using-any-there-s-a-type-for-that)
@@ -28,13 +32,16 @@ Links that might be helpful for me in the future
 - [Starting a TypeScript Project in 2021](https://www.metachris.com/2021/04/starting-a-typescript-project-in-2021/?ck_subscriber_id=248572493)
 
 #### Books
+
 - [TypeScript Deep Dive](https://basarat.gitbook.io/typescript/)
 - [Free programing books](https://github.com/EbookFoundation/free-programming-books)
 
 #### Videos
+
 - [Basarat Ali's youtube channel](https://www.youtube.com/c/BasaratAli/videos)
 
 #### Tools
+
 - [TSConfig bases](https://github.com/tsconfig/bases)
 - [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react)
 
@@ -56,6 +63,7 @@ Links that might be helpful for me in the future
 - [Naming cheatsheet](https://github.com/kettanaito/naming-cheatsheet)
 
 ## UI
+
 - [Redesigning Laravel.io](https://medium.com/refactoring-ui/redesigning-laravel-io-c47ac495dff0)
 
 ## Interview
@@ -68,11 +76,12 @@ Links that might be helpful for me in the future
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
 
 ## RESTful API
+
 - [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist)
 - [Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md)
 
-
 ## Git
+
 - [git-tips](https://github.com/git-tips/tips)
 
 ## Tools
@@ -80,6 +89,7 @@ Links that might be helpful for me in the future
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) a python tool for downloading videos
 - [transition.css](https://github.com/argyleink/transition.css) Drop-in CSS transitions
 - [free-for.dev](https://github.com/ripienaar/free-for-dev)
+- [OpenWeather](https://openweathermap.org/) - Free API for fetching global weather data
 
 ## Others
 
@@ -89,6 +99,6 @@ Links that might be helpful for me in the future
 - [Greatest Hits: The Most Popular and Most Useful Posts I've Written](https://blog.isquaredsoftware.com/2020/08/greatest-hits/)
 - [4 years of coding in San Francisco, lessons learned](https://swizec.com/blog/4-years-of-coding-in-san-francisco-lessons-learned?ck_subscriber_id=1161113581)
 
-
 ## Book list
+
 [The Pragmatic Programmer](https://www.books.com.tw/products/0010856354)
