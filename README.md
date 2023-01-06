@@ -99,6 +99,11 @@ Links that might be helpful for me in the future
 - [Greatest Hits: The Most Popular and Most Useful Posts I've Written](https://blog.isquaredsoftware.com/2020/08/greatest-hits/)
 - [4 years of coding in San Francisco, lessons learned](https://swizec.com/blog/4-years-of-coding-in-san-francisco-lessons-learned?ck_subscriber_id=1161113581)
 
+#### The Awesomes
+
+- [CSS Protips](https://github.com/AllThingsSmitty/css-protips)
+- [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit#when-you-get-stuck)
+
 ## Book list
 
 [The Pragmatic Programmer](https://www.books.com.tw/products/0010856354)
