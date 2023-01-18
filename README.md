@@ -80,20 +80,14 @@ Links that might be helpful for me in the future
 - [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist)
 - [Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md)
 
-## Git
-
-- [git-tips](https://github.com/git-tips/tips)
-
 ## Tools
 
-- [youtube-dl](https://github.com/ytdl-org/youtube-dl) a python tool for downloading videos
 - [transition.css](https://github.com/argyleink/transition.css) Drop-in CSS transitions
 - [free-for.dev](https://github.com/ripienaar/free-for-dev)
-- [OpenWeather](https://openweathermap.org/) - Free API for fetching global weather data
+- [CSS Gradient](https://cssgradient.io/) - Online CSS gradient generator
 
 ## Others
 
-- [提問的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
 - [hacker-scripts](https://github.com/NARKOZ/hacker-scripts)
 - [What makes you a senior software engineer anyway?](https://swizec.com/blog/what-makes-you-a-senior-software-engineer-anyway?ck_subscriber_id=1161113581)
 - [Greatest Hits: The Most Popular and Most Useful Posts I've Written](https://blog.isquaredsoftware.com/2020/08/greatest-hits/)
@@ -103,7 +97,3 @@ Links that might be helpful for me in the future
 
 - [CSS Protips](https://github.com/AllThingsSmitty/css-protips)
 - [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit#when-you-get-stuck)
-
-## Book list
-
-[The Pragmatic Programmer](https://www.books.com.tw/products/0010856354)
